@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extreme Survival Requirements"
+  short_description: "Generate project functional requirements docs."
+  default_prompt: "Use $extreme-survival-requirements to generate AI-facing and reader-friendly functional requirements for Extreme Survival."
